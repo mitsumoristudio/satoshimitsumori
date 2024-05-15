@@ -27,7 +27,7 @@ A Construction delay tracking app for people who want to know accumulated delays
 
 ### Daily Activity
 
-A time management app for creating agendas to take ownership of life obligation. Manage your schedule effortlessly. Your weekly calendar in one place. Create and organize activities. Add checklists and due dates to be more time efficient. Create activites and edit in seconds. 
+A time management app for creating agendas to take ownership of life obligation. Manage your schedule effortlessly. Your weekly calendar in one place. Create and organize activities. Add checklists and due dates to be more time efficient. Create activites and edit in seconds. Please see following link [Github](https://github.com/mitsumoristudio/DailyActivities-)
 
 <img src="https://github.com/mitsumoristudio/satoshimitsumori/blob/4e44db2db5e8f570b82aae1cb9c837433fe63948/Daily%20Activity%20Intro.gif" width="256" height = "500" />
 
