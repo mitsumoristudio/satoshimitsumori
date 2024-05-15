@@ -14,7 +14,7 @@ Swift/Xcode/AutoCad/Firebase/PowerBI
 
 
 
-<- 🔭 I’m currently working on creating construction production friendly applications.>
+### - 🔭 I’m currently working on creating construction production friendly applications.
 
 ## Examples of Work
 
