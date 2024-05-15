@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Satoshi Mitsumori
 #### All things considered with iOS development
 
-![I am GitHub Readme Generator's creator]
+![I am GitHub Readme Generator's creator](https://github.com/mitsumoristudio/satoshimitsumori/blob/835a6826e72106e4c0d52b188ff87193a51a72e2/backgroundbanner.jpg)
 
 Hello. I have experience in mobile development (iOS) with prior decade experience in Civil Engineering & Construction Management. 
 
