@@ -14,7 +14,7 @@ Swift/Xcode/AutoCad/Firebase/PowerBI
 
 ###    Construction Timer
 
-<img src="https://github.com/mitsumoristudio/satoshimitsumori/blob/c9fb51805ca2413fd7a631af3fe4b848a5b37408/Construction%20Timer%20video%20clip.gif" width = "240" />
+<img src="https://github.com/mitsumoristudio/satoshimitsumori/blob/c9fb51805ca2413fd7a631af3fe4b848a5b37408/Construction%20Timer%20video%20clip.gif" width = "240" height="180" />
 
 ###    Daily Activity
 
