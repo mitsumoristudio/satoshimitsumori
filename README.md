@@ -21,19 +21,19 @@ Swift/Xcode/AutoCad/Firebase/PowerBI
 
 ### Construction Timer
 
-A Construction delay tracking app for people who want to know accumulated delays for project
+A Construction delay tracking app for people who want to know accumulated delays for project. The iOS app lets your capture ongoing project delays at ease. Built in timer to manage different type of conflicts. Built in timer to schedule your work choirs and get things done!
 
 <img src="https://github.com/mitsumoristudio/satoshimitsumori/blob/c9fb51805ca2413fd7a631af3fe4b848a5b37408/Construction%20Timer%20video%20clip.gif" width = "240" height = "500" />
 
 ### Daily Activity
 
-A time management app for creating agendas to take ownership of life obligation
+A time management app for creating agendas to take ownership of life obligation. Manage your schedule effortlessly. Your weekly calendar in one place. Create and organize activities. Add checklists and due dates to be more time efficient. Create activites and edit in seconds. 
 
 <img src="https://github.com/mitsumoristudio/satoshimitsumori/blob/4e44db2db5e8f570b82aae1cb9c837433fe63948/Daily%20Activity%20Intro.gif" width="256" height = "500" />
 
 ### Construction Report
 
-A Construction tracking app for creating safety and project reports at ease
+A Construction tracking app for creating safety and project reports at ease. Simplify jobiste details and genuinely take control of your projects.
 
 <a ><img src="https://github.com/mitsumoristudio/satoshimitsumori/blob/b57a4f115044f5ec1110fc171244c84ffcb358a9/Screen3%20Resized.jpg" width= "256" height = "500" /></a>
 <a ><img src="https://github.com/mitsumoristudio/satoshimitsumori/blob/b57a4f115044f5ec1110fc171244c84ffcb358a9/Apple%20iPhone%2011%20Pro-2%20resized.png" width= "256" height = "500" /></a>
