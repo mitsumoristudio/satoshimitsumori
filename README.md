@@ -7,8 +7,20 @@ Skills: Swift/Xcode/AutoCad/Firebase/PowerBI
 
 - 🔭 I’m currently working on creating construction production friendly applications. 
 
+### Hi there 👋, my name is Arturs
+#### I am GitHub Readme Generator's creator
+![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-(https://github.com/mitsumoristudio/satoshimitsumori/blob/2d482597cb1c2a015c2b0ac77e906a8139cfcd4d/Daily%20Activity%20Intro.gif)
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+
+Skills: VUE JS / REACT / JS / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
+
 
 
 
