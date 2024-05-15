@@ -8,5 +8,7 @@ Skills: Swift/Xcode/AutoCad/Firebase/PowerBI
 - 🔭 I’m currently working on creating construction production friendly applications. 
 
 
+(https://github.com/mitsumoristudio/satoshimitsumori/blob/2d482597cb1c2a015c2b0ac77e906a8139cfcd4d/Daily%20Activity%20Intro.gif)
+
 
 
