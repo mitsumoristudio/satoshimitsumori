@@ -22,7 +22,7 @@ Swift/Xcode/AutoCad/Firebase/PowerBI
 
 ### Construction Report
 
-<img src="https://github.com/mitsumoristudio/satoshimitsumori/blob/05be2f5c81ad532af7c4974b48f2c5f27eb324c3/Apple%20iPhone%2011%20Pro-resized.png" width= "256" height = "500" />
-
+<a ><img src="https://github.com/mitsumoristudio/satoshimitsumori/blob/05be2f5c81ad532af7c4974b48f2c5f27eb324c3/Apple%20iPhone%2011%20Pro-resized.png" width= "256" height = "500" /></a>
+<a ><img src="https://github.com/mitsumoristudio/satoshimitsumori/blob/05be2f5c81ad532af7c4974b48f2c5f27eb324c3/Apple%20iPhone%2011%20Pro-resized.png" width= "256" height = "500" /></a>
 
 
