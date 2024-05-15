@@ -8,7 +8,7 @@ Hello. I have experience in mobile development (iOS) with prior decade experienc
 ## Skills and Experience: 
 Swift/Xcode/AutoCad/Firebase/PowerBI
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/mitsumoristudio/satoshimitsumori/blob/53a1b38ebcf43c022788204003cefdabff5ec6ef/SwiftLogo.png" />
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/mitsumoristudio/satoshimitsumori/blob/53a1b38ebcf43c022788204003cefdabff5ec6ef/SwiftLogo.png" />]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/mitsumoristudio/satoshimitsumori/blob/0ed046d36c281304bd3e624884ca04b92d5cc22c/Xcode_14_icon.png" />]
 
 - 🔭 I’m currently working on creating construction production friendly applications. 
