@@ -10,7 +10,7 @@ Swift/Xcode/AutoCad/Firebase/PowerBI
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/mitsumoristudio/satoshimitsumori/blob/53a1b38ebcf43c022788204003cefdabff5ec6ef/SwiftLogo.png" />]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/mitsumoristudio/satoshimitsumori/blob/0ed046d36c281304bd3e624884ca04b92d5cc22c/Xcode_14_icon.png" />]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/mitsumoristudio/satoshimitsumori/blob/912466f6c21d28dacb5defa8ecbde50da2bdd468/AutoCAD_logo_PNG2.png" />]
+[<img align="left" alt="Visual Studio Code" width="30" src="https://github.com/mitsumoristudio/satoshimitsumori/blob/912466f6c21d28dacb5defa8ecbde50da2bdd468/AutoCAD_logo_PNG2.png" />]
 
 
 
