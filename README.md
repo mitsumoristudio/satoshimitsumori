@@ -14,15 +14,18 @@ Swift/Xcode/AutoCad/Firebase/PowerBI
 
 ### Construction Timer
 
-<img src="https://github.com/mitsumoristudio/satoshimitsumori/blob/c9fb51805ca2413fd7a631af3fe4b848a5b37408/Construction%20Timer%20video%20clip.gif" width = "240" />
+<img src="https://github.com/mitsumoristudio/satoshimitsumori/blob/c9fb51805ca2413fd7a631af3fe4b848a5b37408/Construction%20Timer%20video%20clip.gif" width = "240" height = "500" />
 
 ### Daily Activity
 
-<img src="https://github.com/mitsumoristudio/satoshimitsumori/blob/4e44db2db5e8f570b82aae1cb9c837433fe63948/Daily%20Activity%20Intro.gif" width="256" />
+<img src="https://github.com/mitsumoristudio/satoshimitsumori/blob/4e44db2db5e8f570b82aae1cb9c837433fe63948/Daily%20Activity%20Intro.gif" width="256" height = "500" />
 
 ### Construction Report
 
-<a ><img src="https://github.com/mitsumoristudio/satoshimitsumori/blob/05be2f5c81ad532af7c4974b48f2c5f27eb324c3/Apple%20iPhone%2011%20Pro-resized.png" width= "256" height = "500" /></a>
+<a ><img src="https://github.com/mitsumoristudio/satoshimitsumori/blob/b57a4f115044f5ec1110fc171244c84ffcb358a9/Screen3%20Resized.jpg" width= "256" height = "500" /></a>
+
+<a ><img src="https://github.com/mitsumoristudio/satoshimitsumori/blob/b57a4f115044f5ec1110fc171244c84ffcb358a9/Apple%20iPhone%2011%20Pro-2%20resized.png" width= "256" height = "500" /></a>
+
 <a ><img src="https://github.com/mitsumoristudio/satoshimitsumori/blob/05be2f5c81ad532af7c4974b48f2c5f27eb324c3/Apple%20iPhone%2011%20Pro-resized.png" width= "256" height = "500" /></a>
 
 
