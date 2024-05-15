@@ -5,7 +5,7 @@
 
 Hello. I have experience in mobile development (iOS) with prior decade experience in Civil Engineering & Construction Management. 
 
-Skills: Swift/Xcode/AutoCad/Firebase/PowerBI
+Skills and Experience: Swift/Xcode/AutoCad/Firebase/PowerBI
 
 - 🔭 I’m currently working on creating construction production friendly applications. 
 
