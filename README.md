@@ -11,7 +11,8 @@ Swift/Xcode/AutoCad/Firebase/PowerBI
 - 🔭 I’m currently working on creating construction production friendly applications. 
 
 #Examples of Work
-<img src="" width="256">
+
+<img src="https://github.com/mitsumoristudio/satoshimitsumori/blob/4e44db2db5e8f570b82aae1cb9c837433fe63948/Daily%20Activity%20Intro.gif" width="256" />
 
 
 
