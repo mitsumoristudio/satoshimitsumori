@@ -20,7 +20,9 @@ Swift/Xcode/AutoCad/Firebase/PowerBI
 
 <img src="https://github.com/mitsumoristudio/satoshimitsumori/blob/4e44db2db5e8f570b82aae1cb9c837433fe63948/Daily%20Activity%20Intro.gif" width="256" />
 
+### Construction Report
 
+<img src="https://github.com/mitsumoristudio/satoshimitsumori/blob/05be2f5c81ad532af7c4974b48f2c5f27eb324c3/Apple%20iPhone%2011%20Pro-resized.png" width= "256" height = "500" />
 
 
 
