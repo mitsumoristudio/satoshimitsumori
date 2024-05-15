@@ -12,11 +12,11 @@ Swift/Xcode/AutoCad/Firebase/PowerBI
 
 ## Examples of Work
 
-### Construction Timer
+###    Construction Timer
 
 <img src="https://github.com/mitsumoristudio/satoshimitsumori/blob/c9fb51805ca2413fd7a631af3fe4b848a5b37408/Construction%20Timer%20video%20clip.gif" width = "256" />
 
-### Daily Activity
+###    Daily Activity
 
 <img src="https://github.com/mitsumoristudio/satoshimitsumori/blob/4e44db2db5e8f570b82aae1cb9c837433fe63948/Daily%20Activity%20Intro.gif" width="256" />
 
