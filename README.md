@@ -1,5 +1,8 @@
 ### Hi there 👋, my name is Satoshi Mitsumori
 #### All things considered with iOS development
+
+backgroundbanner.jpg
+
 Hello. I have experience in mobile development (iOS) with prior decade experience in Civil Engineering & Construction Management. 
 
 Skills: Swift/Xcode/AutoCad/Firebase/PowerBI
