@@ -34,7 +34,7 @@ A time management app for creating agendas to take ownership of life obligation.
 ### Construction Report
 
 A Construction tracking app for creating safety and project reports at ease. Simplify jobiste details and genuinely take control of your projects. App uses firebase autentication for signing in user.
-Please see following link [Github](https://github.com/mitsumoristudio/DailyActivities-)
+Please see following link [Github](https://github.com/mitsumoristudio/DailyReport-)
 
 <a ><img src="https://github.com/mitsumoristudio/satoshimitsumori/blob/b57a4f115044f5ec1110fc171244c84ffcb358a9/Screen3%20Resized.jpg" width= "256" height = "500" /></a>
 <a ><img src="https://github.com/mitsumoristudio/satoshimitsumori/blob/b57a4f115044f5ec1110fc171244c84ffcb358a9/Apple%20iPhone%2011%20Pro-2%20resized.png" width= "256" height = "500" /></a>
