@@ -23,8 +23,9 @@ A Construction delay tracking app for people who want to know accumulated delays
 
 <img src="https://github.com/mitsumoristudio/satoshimitsumori/blob/main/Download_on_the_App_Store_Badge_US-UK_blk_092917.jpg" width="180" height = "60" />
 
-<img src="https://github.com/mitsumoristudio/satoshimitsumori/blob/c9fb51805ca2413fd7a631af3fe4b848a5b37408/Construction%20Timer%20video%20clip.gif" width = "240" height = "500" />
 [Apple](https://apps.apple.com/us/app/construction-timer/id6480379704?platform=iphone)
+<img src="https://github.com/mitsumoristudio/satoshimitsumori/blob/c9fb51805ca2413fd7a631af3fe4b848a5b37408/Construction%20Timer%20video%20clip.gif" width = "180" height = "500" />
+
 
 
 ### Everyday Activities
