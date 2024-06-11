@@ -25,6 +25,8 @@ A Construction delay tracking app for people who want to know accumulated delays
 
 <img src="https://github.com/mitsumoristudio/satoshimitsumori/blob/c9fb51805ca2413fd7a631af3fe4b848a5b37408/Construction%20Timer%20video%20clip.gif" width = "240" height = "500" />
 
+<img src="https://github.com/mitsumoristudio/satoshimitsumori/blob/main/Download_on_the_App_Store_Badge_US-UK_blk_092917.jpg" width="256" height = "500" />
+
 ### Everyday Activities
 
 A time management app for creating agendas to take ownership of life obligation. Manage your schedule effortlessly. Your weekly calendar in one place. Create and organize activities. Add checklists and due dates to be more time efficient. Create activites and edit in seconds. Please see following link [Github](https://github.com/mitsumoristudio/DailyActivities-)
