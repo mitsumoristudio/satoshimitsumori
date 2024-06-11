@@ -27,7 +27,7 @@ Apple Link [Apple](https://apps.apple.com/us/app/construction-timer/id6480379704
 
 
 
-<img src="https://github.com/mitsumoristudio/satoshimitsumori/blob/c9fb51805ca2413fd7a631af3fe4b848a5b37408/Construction%20Timer%20video%20clip.gif" width = "180" height = "500" />
+<img src="https://github.com/mitsumoristudio/satoshimitsumori/blob/c9fb51805ca2413fd7a631af3fe4b848a5b37408/Construction%20Timer%20video%20clip.gif" width = "256" height = "500" />
 
 
 
