@@ -23,7 +23,7 @@ A Construction delay tracking app for people who want to know accumulated delays
 
 Apple Link [Apple](https://apps.apple.com/us/app/construction-timer/id6480379704?platform=iphone)
 
-<img src="https://github.com/mitsumoristudio/satoshimitsumori/blob/main/Download_on_the_App_Store_Badge_US-UK_blk_092917.jpg" width="180" height = "60" />
+<img src="https://github.com/mitsumoristudio/satoshimitsumori/blob/main/Download_on_the_App_Store_Badge_US-UK_blk_092917.jpg" width="140" height = "60" />
 
 
 
